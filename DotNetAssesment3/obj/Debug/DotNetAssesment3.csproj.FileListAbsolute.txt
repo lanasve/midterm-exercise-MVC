@@ -1,0 +1,159 @@
+c:\users\светик\documents\visual studio 2015\Projects\DotNetAssesment3\DotNetAssesment3\bin\roslyn\csc.exe
+c:\users\светик\documents\visual studio 2015\Projects\DotNetAssesment3\DotNetAssesment3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\светик\documents\visual studio 2015\Projects\DotNetAssesment3\DotNetAssesment3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\светик\documents\visual studio 2015\Projects\DotNetAssesment3\DotNetAssesment3\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\светик\documents\visual studio 2015\Projects\DotNetAssesment3\DotNetAssesment3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\светик\documents\visual studio 2015\Projects\DotNetAssesment3\DotNetAssesment3\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\светик\documents\visual studio 2015\Projects\DotNetAssesment3\DotNetAssesment3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\светик\documents\visual studio 2015\Projects\DotNetAssesment3\DotNetAssesment3\bin\roslyn\System.Collections.Immutable.dll
+c:\users\светик\documents\visual studio 2015\Projects\DotNetAssesment3\DotNetAssesment3\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\светик\documents\visual studio 2015\Projects\DotNetAssesment3\DotNetAssesment3\bin\roslyn\vbc.exe
+c:\users\светик\documents\visual studio 2015\Projects\DotNetAssesment3\DotNetAssesment3\bin\roslyn\VBCSCompiler.exe
+c:\users\светик\documents\visual studio 2015\Projects\DotNetAssesment3\DotNetAssesment3\bin\roslyn\VBCSCompiler.exe.config
+c:\users\светик\documents\visual studio 2015\Projects\DotNetAssesment3\DotNetAssesment3\bin\DotNetAssesment3.dll.config
+c:\users\светик\documents\visual studio 2015\Projects\DotNetAssesment3\DotNetAssesment3\bin\DotNetAssesment3.dll
+c:\users\светик\documents\visual studio 2015\Projects\DotNetAssesment3\DotNetAssesment3\bin\DotNetAssesment3.pdb
+c:\users\светик\documents\visual studio 2015\Projects\DotNetAssesment3\DotNetAssesment3\bin\Antlr3.Runtime.dll
+c:\users\светик\documents\visual studio 2015\Projects\DotNetAssesment3\DotNetAssesment3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\светик\documents\visual studio 2015\Projects\DotNetAssesment3\DotNetAssesment3\bin\Microsoft.Web.Infrastructure.dll
+c:\users\светик\documents\visual studio 2015\Projects\DotNetAssesment3\DotNetAssesment3\bin\Newtonsoft.Json.dll
+c:\users\светик\documents\visual studio 2015\Projects\DotNetAssesment3\DotNetAssesment3\bin\System.Web.Helpers.dll
+c:\users\светик\documents\visual studio 2015\Projects\DotNetAssesment3\DotNetAssesment3\bin\System.Web.Mvc.dll
+c:\users\светик\documents\visual studio 2015\Projects\DotNetAssesment3\DotNetAssesment3\bin\System.Web.Optimization.dll
+c:\users\светик\documents\visual studio 2015\Projects\DotNetAssesment3\DotNetAssesment3\bin\System.Web.Razor.dll
+c:\users\светик\documents\visual studio 2015\Projects\DotNetAssesment3\DotNetAssesment3\bin\System.Web.WebPages.Deployment.dll
+c:\users\светик\documents\visual studio 2015\Projects\DotNetAssesment3\DotNetAssesment3\bin\System.Web.WebPages.dll
+c:\users\светик\documents\visual studio 2015\Projects\DotNetAssesment3\DotNetAssesment3\bin\System.Web.WebPages.Razor.dll
+c:\users\светик\documents\visual studio 2015\Projects\DotNetAssesment3\DotNetAssesment3\bin\WebGrease.dll
+c:\users\светик\documents\visual studio 2015\Projects\DotNetAssesment3\DotNetAssesment3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\светик\documents\visual studio 2015\Projects\DotNetAssesment3\DotNetAssesment3\bin\System.Web.Helpers.xml
+c:\users\светик\documents\visual studio 2015\Projects\DotNetAssesment3\DotNetAssesment3\bin\System.Web.Mvc.xml
+c:\users\светик\documents\visual studio 2015\Projects\DotNetAssesment3\DotNetAssesment3\bin\System.Web.Optimization.xml
+c:\users\светик\documents\visual studio 2015\Projects\DotNetAssesment3\DotNetAssesment3\bin\System.Web.Razor.xml
+c:\users\светик\documents\visual studio 2015\Projects\DotNetAssesment3\DotNetAssesment3\bin\System.Web.WebPages.xml
+c:\users\светик\documents\visual studio 2015\Projects\DotNetAssesment3\DotNetAssesment3\bin\System.Web.WebPages.Deployment.xml
+c:\users\светик\documents\visual studio 2015\Projects\DotNetAssesment3\DotNetAssesment3\bin\System.Web.WebPages.Razor.xml
+c:\users\светик\documents\visual studio 2015\Projects\DotNetAssesment3\DotNetAssesment3\bin\Antlr3.Runtime.pdb
+c:\users\светик\documents\visual studio 2015\Projects\DotNetAssesment3\DotNetAssesment3\bin\Newtonsoft.Json.xml
+c:\users\светик\documents\visual studio 2015\Projects\DotNetAssesment3\DotNetAssesment3\bin\ru\System.Web.Helpers.resources.dll
+c:\users\светик\documents\visual studio 2015\Projects\DotNetAssesment3\DotNetAssesment3\bin\ru\System.Web.Mvc.resources.dll
+c:\users\светик\documents\visual studio 2015\Projects\DotNetAssesment3\DotNetAssesment3\bin\ru\System.Web.Optimization.resources.dll
+c:\users\светик\documents\visual studio 2015\Projects\DotNetAssesment3\DotNetAssesment3\bin\ru\System.Web.Razor.resources.dll
+c:\users\светик\documents\visual studio 2015\Projects\DotNetAssesment3\DotNetAssesment3\bin\ru\System.Web.WebPages.resources.dll
+c:\users\светик\documents\visual studio 2015\Projects\DotNetAssesment3\DotNetAssesment3\bin\ru\System.Web.WebPages.Deployment.resources.dll
+c:\users\светик\documents\visual studio 2015\Projects\DotNetAssesment3\DotNetAssesment3\bin\ru\System.Web.WebPages.Razor.resources.dll
+c:\users\светик\documents\visual studio 2015\Projects\DotNetAssesment3\DotNetAssesment3\obj\Debug\DotNetAssesment3.csprojResolveAssemblyReference.cache
+c:\users\светик\documents\visual studio 2015\Projects\DotNetAssesment3\DotNetAssesment3\obj\Debug\DotNetAssesment3.dll
+c:\users\светик\documents\visual studio 2015\Projects\DotNetAssesment3\DotNetAssesment3\obj\Debug\DotNetAssesment3.pdb
+c:\users\светик\documents\visual studio 2015\Projects\DotNetAssesment3\DotNetAssesment3\bin\EntityFramework.dll
+c:\users\светик\documents\visual studio 2015\Projects\DotNetAssesment3\DotNetAssesment3\bin\EntityFramework.SqlServer.dll
+c:\users\светик\documents\visual studio 2015\Projects\DotNetAssesment3\DotNetAssesment3\bin\EntityFramework.xml
+c:\users\светик\documents\visual studio 2015\Projects\DotNetAssesment3\DotNetAssesment3\bin\EntityFramework.SqlServer.xml
+c:\users\светик\documents\visual studio 2015\Projects\DotNetAssesment3\DotNetAssesment3\obj\Debug\DotNetAssesment3.Migrations.Movie1.resources
+c:\users\светик\documents\visual studio 2015\Projects\DotNetAssesment3\DotNetAssesment3\obj\Debug\DotNetAssesment3.csproj.GenerateResource.Cache
+C:\Users\Deltagare\Desktop\MVC\DotNetAssesment3\DotNetAssesment3\bin\roslyn\csc.exe
+C:\Users\Deltagare\Desktop\MVC\DotNetAssesment3\DotNetAssesment3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Deltagare\Desktop\MVC\DotNetAssesment3\DotNetAssesment3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Deltagare\Desktop\MVC\DotNetAssesment3\DotNetAssesment3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Deltagare\Desktop\MVC\DotNetAssesment3\DotNetAssesment3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Deltagare\Desktop\MVC\DotNetAssesment3\DotNetAssesment3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Deltagare\Desktop\MVC\DotNetAssesment3\DotNetAssesment3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Deltagare\Desktop\MVC\DotNetAssesment3\DotNetAssesment3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Deltagare\Desktop\MVC\DotNetAssesment3\DotNetAssesment3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Deltagare\Desktop\MVC\DotNetAssesment3\DotNetAssesment3\bin\roslyn\vbc.exe
+C:\Users\Deltagare\Desktop\MVC\DotNetAssesment3\DotNetAssesment3\bin\roslyn\VBCSCompiler.exe
+C:\Users\Deltagare\Desktop\MVC\DotNetAssesment3\DotNetAssesment3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Deltagare\Desktop\MVC\DotNetAssesment3\DotNetAssesment3\bin\DotNetAssesment3.dll.config
+C:\Users\Deltagare\Desktop\MVC\DotNetAssesment3\DotNetAssesment3\bin\DotNetAssesment3.dll
+C:\Users\Deltagare\Desktop\MVC\DotNetAssesment3\DotNetAssesment3\bin\DotNetAssesment3.pdb
+C:\Users\Deltagare\Desktop\MVC\DotNetAssesment3\DotNetAssesment3\bin\Antlr3.Runtime.dll
+C:\Users\Deltagare\Desktop\MVC\DotNetAssesment3\DotNetAssesment3\bin\EntityFramework.dll
+C:\Users\Deltagare\Desktop\MVC\DotNetAssesment3\DotNetAssesment3\bin\EntityFramework.SqlServer.dll
+C:\Users\Deltagare\Desktop\MVC\DotNetAssesment3\DotNetAssesment3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Deltagare\Desktop\MVC\DotNetAssesment3\DotNetAssesment3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Deltagare\Desktop\MVC\DotNetAssesment3\DotNetAssesment3\bin\Newtonsoft.Json.dll
+C:\Users\Deltagare\Desktop\MVC\DotNetAssesment3\DotNetAssesment3\bin\System.Web.Helpers.dll
+C:\Users\Deltagare\Desktop\MVC\DotNetAssesment3\DotNetAssesment3\bin\System.Web.Mvc.dll
+C:\Users\Deltagare\Desktop\MVC\DotNetAssesment3\DotNetAssesment3\bin\System.Web.Optimization.dll
+C:\Users\Deltagare\Desktop\MVC\DotNetAssesment3\DotNetAssesment3\bin\System.Web.Razor.dll
+C:\Users\Deltagare\Desktop\MVC\DotNetAssesment3\DotNetAssesment3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Deltagare\Desktop\MVC\DotNetAssesment3\DotNetAssesment3\bin\System.Web.WebPages.dll
+C:\Users\Deltagare\Desktop\MVC\DotNetAssesment3\DotNetAssesment3\bin\System.Web.WebPages.Razor.dll
+C:\Users\Deltagare\Desktop\MVC\DotNetAssesment3\DotNetAssesment3\bin\WebGrease.dll
+C:\Users\Deltagare\Desktop\MVC\DotNetAssesment3\DotNetAssesment3\bin\EntityFramework.xml
+C:\Users\Deltagare\Desktop\MVC\DotNetAssesment3\DotNetAssesment3\bin\EntityFramework.SqlServer.xml
+C:\Users\Deltagare\Desktop\MVC\DotNetAssesment3\DotNetAssesment3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Deltagare\Desktop\MVC\DotNetAssesment3\DotNetAssesment3\bin\System.Web.Helpers.xml
+C:\Users\Deltagare\Desktop\MVC\DotNetAssesment3\DotNetAssesment3\bin\System.Web.Mvc.xml
+C:\Users\Deltagare\Desktop\MVC\DotNetAssesment3\DotNetAssesment3\bin\System.Web.Optimization.xml
+C:\Users\Deltagare\Desktop\MVC\DotNetAssesment3\DotNetAssesment3\bin\System.Web.Razor.xml
+C:\Users\Deltagare\Desktop\MVC\DotNetAssesment3\DotNetAssesment3\bin\System.Web.WebPages.xml
+C:\Users\Deltagare\Desktop\MVC\DotNetAssesment3\DotNetAssesment3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Deltagare\Desktop\MVC\DotNetAssesment3\DotNetAssesment3\bin\System.Web.WebPages.Razor.xml
+C:\Users\Deltagare\Desktop\MVC\DotNetAssesment3\DotNetAssesment3\bin\Antlr3.Runtime.pdb
+C:\Users\Deltagare\Desktop\MVC\DotNetAssesment3\DotNetAssesment3\bin\Newtonsoft.Json.xml
+C:\Users\Deltagare\Desktop\MVC\DotNetAssesment3\DotNetAssesment3\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Deltagare\Desktop\MVC\DotNetAssesment3\DotNetAssesment3\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Deltagare\Desktop\MVC\DotNetAssesment3\DotNetAssesment3\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Deltagare\Desktop\MVC\DotNetAssesment3\DotNetAssesment3\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Deltagare\Desktop\MVC\DotNetAssesment3\DotNetAssesment3\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Deltagare\Desktop\MVC\DotNetAssesment3\DotNetAssesment3\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Deltagare\Desktop\MVC\DotNetAssesment3\DotNetAssesment3\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Deltagare\Desktop\MVC\DotNetAssesment3\DotNetAssesment3\obj\Debug\DotNetAssesment3.csprojResolveAssemblyReference.cache
+C:\Users\Deltagare\Desktop\MVC\DotNetAssesment3\DotNetAssesment3\obj\Debug\DotNetAssesment3.dll
+C:\Users\Deltagare\Desktop\MVC\DotNetAssesment3\DotNetAssesment3\obj\Debug\DotNetAssesment3.pdb
+C:\Users\Deltagare\Desktop\MVC\DotNetAssesment3\DotNetAssesment3\obj\Debug\DotNetAssesment3.Migrations.Initial.resources
+C:\Users\Deltagare\Desktop\MVC\DotNetAssesment3\DotNetAssesment3\obj\Debug\DotNetAssesment3.csproj.GenerateResource.Cache
+D:\myProjectsLexicon\DotNetAssesment3-1\DotNetAssesment3\DotNetAssesment3\bin\roslyn\csc.exe
+D:\myProjectsLexicon\DotNetAssesment3-1\DotNetAssesment3\DotNetAssesment3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\myProjectsLexicon\DotNetAssesment3-1\DotNetAssesment3\DotNetAssesment3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\myProjectsLexicon\DotNetAssesment3-1\DotNetAssesment3\DotNetAssesment3\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\myProjectsLexicon\DotNetAssesment3-1\DotNetAssesment3\DotNetAssesment3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\myProjectsLexicon\DotNetAssesment3-1\DotNetAssesment3\DotNetAssesment3\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\myProjectsLexicon\DotNetAssesment3-1\DotNetAssesment3\DotNetAssesment3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\myProjectsLexicon\DotNetAssesment3-1\DotNetAssesment3\DotNetAssesment3\bin\roslyn\System.Collections.Immutable.dll
+D:\myProjectsLexicon\DotNetAssesment3-1\DotNetAssesment3\DotNetAssesment3\bin\roslyn\System.Reflection.Metadata.dll
+D:\myProjectsLexicon\DotNetAssesment3-1\DotNetAssesment3\DotNetAssesment3\bin\roslyn\vbc.exe
+D:\myProjectsLexicon\DotNetAssesment3-1\DotNetAssesment3\DotNetAssesment3\bin\roslyn\VBCSCompiler.exe
+D:\myProjectsLexicon\DotNetAssesment3-1\DotNetAssesment3\DotNetAssesment3\bin\roslyn\VBCSCompiler.exe.config
+D:\myProjectsLexicon\DotNetAssesment3-1\DotNetAssesment3\DotNetAssesment3\bin\DotNetAssesment3.dll.config
+D:\myProjectsLexicon\DotNetAssesment3-1\DotNetAssesment3\DotNetAssesment3\bin\DotNetAssesment3.dll
+D:\myProjectsLexicon\DotNetAssesment3-1\DotNetAssesment3\DotNetAssesment3\bin\DotNetAssesment3.pdb
+D:\myProjectsLexicon\DotNetAssesment3-1\DotNetAssesment3\DotNetAssesment3\bin\Antlr3.Runtime.dll
+D:\myProjectsLexicon\DotNetAssesment3-1\DotNetAssesment3\DotNetAssesment3\bin\EntityFramework.dll
+D:\myProjectsLexicon\DotNetAssesment3-1\DotNetAssesment3\DotNetAssesment3\bin\EntityFramework.SqlServer.dll
+D:\myProjectsLexicon\DotNetAssesment3-1\DotNetAssesment3\DotNetAssesment3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\myProjectsLexicon\DotNetAssesment3-1\DotNetAssesment3\DotNetAssesment3\bin\Microsoft.Web.Infrastructure.dll
+D:\myProjectsLexicon\DotNetAssesment3-1\DotNetAssesment3\DotNetAssesment3\bin\Newtonsoft.Json.dll
+D:\myProjectsLexicon\DotNetAssesment3-1\DotNetAssesment3\DotNetAssesment3\bin\System.Web.Helpers.dll
+D:\myProjectsLexicon\DotNetAssesment3-1\DotNetAssesment3\DotNetAssesment3\bin\System.Web.Mvc.dll
+D:\myProjectsLexicon\DotNetAssesment3-1\DotNetAssesment3\DotNetAssesment3\bin\System.Web.Optimization.dll
+D:\myProjectsLexicon\DotNetAssesment3-1\DotNetAssesment3\DotNetAssesment3\bin\System.Web.Razor.dll
+D:\myProjectsLexicon\DotNetAssesment3-1\DotNetAssesment3\DotNetAssesment3\bin\System.Web.WebPages.Deployment.dll
+D:\myProjectsLexicon\DotNetAssesment3-1\DotNetAssesment3\DotNetAssesment3\bin\System.Web.WebPages.dll
+D:\myProjectsLexicon\DotNetAssesment3-1\DotNetAssesment3\DotNetAssesment3\bin\System.Web.WebPages.Razor.dll
+D:\myProjectsLexicon\DotNetAssesment3-1\DotNetAssesment3\DotNetAssesment3\bin\WebGrease.dll
+D:\myProjectsLexicon\DotNetAssesment3-1\DotNetAssesment3\DotNetAssesment3\bin\Antlr3.Runtime.pdb
+D:\myProjectsLexicon\DotNetAssesment3-1\DotNetAssesment3\DotNetAssesment3\bin\EntityFramework.xml
+D:\myProjectsLexicon\DotNetAssesment3-1\DotNetAssesment3\DotNetAssesment3\bin\EntityFramework.SqlServer.xml
+D:\myProjectsLexicon\DotNetAssesment3-1\DotNetAssesment3\DotNetAssesment3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\myProjectsLexicon\DotNetAssesment3-1\DotNetAssesment3\DotNetAssesment3\bin\Newtonsoft.Json.xml
+D:\myProjectsLexicon\DotNetAssesment3-1\DotNetAssesment3\DotNetAssesment3\bin\System.Web.Helpers.xml
+D:\myProjectsLexicon\DotNetAssesment3-1\DotNetAssesment3\DotNetAssesment3\bin\System.Web.Mvc.xml
+D:\myProjectsLexicon\DotNetAssesment3-1\DotNetAssesment3\DotNetAssesment3\bin\System.Web.Optimization.xml
+D:\myProjectsLexicon\DotNetAssesment3-1\DotNetAssesment3\DotNetAssesment3\bin\System.Web.Razor.xml
+D:\myProjectsLexicon\DotNetAssesment3-1\DotNetAssesment3\DotNetAssesment3\bin\System.Web.WebPages.xml
+D:\myProjectsLexicon\DotNetAssesment3-1\DotNetAssesment3\DotNetAssesment3\bin\System.Web.WebPages.Deployment.xml
+D:\myProjectsLexicon\DotNetAssesment3-1\DotNetAssesment3\DotNetAssesment3\bin\System.Web.WebPages.Razor.xml
+D:\myProjectsLexicon\DotNetAssesment3-1\DotNetAssesment3\DotNetAssesment3\bin\ru\System.Web.Helpers.resources.dll
+D:\myProjectsLexicon\DotNetAssesment3-1\DotNetAssesment3\DotNetAssesment3\bin\ru\System.Web.Mvc.resources.dll
+D:\myProjectsLexicon\DotNetAssesment3-1\DotNetAssesment3\DotNetAssesment3\bin\ru\System.Web.Optimization.resources.dll
+D:\myProjectsLexicon\DotNetAssesment3-1\DotNetAssesment3\DotNetAssesment3\bin\ru\System.Web.Razor.resources.dll
+D:\myProjectsLexicon\DotNetAssesment3-1\DotNetAssesment3\DotNetAssesment3\bin\ru\System.Web.WebPages.resources.dll
+D:\myProjectsLexicon\DotNetAssesment3-1\DotNetAssesment3\DotNetAssesment3\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\myProjectsLexicon\DotNetAssesment3-1\DotNetAssesment3\DotNetAssesment3\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\myProjectsLexicon\DotNetAssesment3-1\DotNetAssesment3\DotNetAssesment3\obj\Debug\DotNetAssesment3.csprojResolveAssemblyReference.cache
+D:\myProjectsLexicon\DotNetAssesment3-1\DotNetAssesment3\DotNetAssesment3\obj\Debug\DotNetAssesment3.Migrations.Initial.resources
+D:\myProjectsLexicon\DotNetAssesment3-1\DotNetAssesment3\DotNetAssesment3\obj\Debug\DotNetAssesment3.csproj.GenerateResource.Cache
+D:\myProjectsLexicon\DotNetAssesment3-1\DotNetAssesment3\DotNetAssesment3\obj\Debug\DotNetAssesment3.dll
+D:\myProjectsLexicon\DotNetAssesment3-1\DotNetAssesment3\DotNetAssesment3\obj\Debug\DotNetAssesment3.pdb
